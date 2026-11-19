@@ -1,0 +1,6 @@
+{
+  "name": "3D Numbers",
+  "description": "Sayı doğrusu üzerinde yerel 3B eksenli ağaç görselleştirmesi, çok kriterli bağlamsal sayı notasyonu ve 6 serbestlik dereceli gradyan-vektör prototipi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
